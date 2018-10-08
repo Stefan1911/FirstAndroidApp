@@ -1,0 +1,37 @@
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.pdb
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid.apk
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid-Signed.apk
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.csprojResolveAssemblyReference.cache
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.dll
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.pdb
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\android\bin\HelloAndroid.HelloAndroid.apk
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\res\layout\main.xml
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\res\values\strings.xml
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\R.cs.flag
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\uploadflags.txt
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll.mdb
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\obj\Debug\android\assets\HelloAndroid.dll.mdb
+E:\WorkSpace\C#\Mobile\Hello Android\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\HelloAndroid.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
